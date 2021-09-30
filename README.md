@@ -6,7 +6,7 @@ This model is Ben Wan working with Liu Peng.
 
 该代码执行AGPL 3.0协议.
 
-This code is under the GNU Affero General Public License.
+This code is use the GNU AFFERO GENERAL PUBLIC LICENSE Version 3.
 
 请为任何学术目的进行必要的引用.
 
