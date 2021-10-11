@@ -2,7 +2,7 @@
 
 该模型是万善乐与刘鹏的合作
 
-This model is Ben Wan working with Liu Peng.
+This model was proposed by Ben Wan and Peng Liu together
 
 该代码执行AGPL 3.0协议.
 
