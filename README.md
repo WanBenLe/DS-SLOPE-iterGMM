@@ -12,11 +12,6 @@ This model was proposed by Ben Wan and Peng Liu together
 
 This code is use the GNU AFFERO GENERAL PUBLIC LICENSE Version 3.
 
-请为任何学术目的进行必要的引用.
-
-Please cite as necessary for any academic purposes.
-
-
 DS-Post-Lasso的工作:
 
 1.对y和高维变量x进行第一阶段估计,得到非0的变量集S1(Lasso筛选).
